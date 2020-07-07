@@ -1,7 +1,5 @@
 # coding: latin-1
-
-#Coded By Zucccs
-# Enjoy
+# Raduytesb
 
 
 #=============================
